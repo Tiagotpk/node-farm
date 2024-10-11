@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Abacate",
+    "image": "🥑",
+    "from": "Espanha 🇪🇸",
+    "nutrients": "Vitamina B, Vitamina K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Um abacate maduro cede a uma leve pressão quando segurado na palma da mão e apertado. A fruta não é doce, mas de sabor distinto e sutil, com textura macia. O abacate é popular na culinária vegetariana como substituto de carnes em sanduíches e saladas devido ao seu alto teor de gordura. Geralmente, o abacate é servido cru, embora alguns cultivares, incluindo o comum 'Hass', possam ser cozidos por um curto período de tempo sem se tornarem amargos. É utilizado como base para o molho mexicano conhecido como guacamole, bem como para barrar tortilhas de milho ou torradas, servidas com temperos."
+  },
+  {
+    "id": 1,
+    "productName": "Queijo",
+    "image": "🧀",
+    "from": "Portugal 🇵🇹",
+    "nutrients": "Vitamina A, Calcio",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Cremoso e de sabor distinto, o queijo de cabra é um laticínio apreciado em todo o mundo. O queijo de cabra vem em uma grande variedade de sabores e texturas, desde queijo fresco macio e para barrar até queijo envelhecido salgado e quebradiço. Embora seja feito com o mesmo processo de coagulação e separação do queijo feito com leite de vaca, o queijo de cabra difere no teor de nutrientes."
+  },
+  {
+    "id": 2,
+    "productName": "Brocolis",
+    "image": "🥦",
+    "from": "Portugal 🇵🇹",
+    "nutrients": "Vitamina C, Vitamina K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "O brócolis é conhecido por ser um vegetal saudável e saboroso, rico em dezenas de nutrientes. Diz-se que contém o ponche mais nutritivo de qualquer vegetal. Quando pensamos em vegetais verdes para incluir em nossa dieta, o brócolis é um dos vegetais mais importantes que nos vem à mente. O brócolis é um vegetal crucífero e faz parte da família do repolho, que inclui vegetais como couve de Bruxelas e couve. Embora os sabores sejam diferentes, o brócolis e esses outros vegetais são da mesma família."
+  },
+  {
+    "id": 3,
+    "productName": "Cenouras",
+    "image": "🥕",
+    "from": "França 🇫🇷",
+    "nutrients": "Vitamina A, Vitamina K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "A cenoura é uma raiz vegetal frequentemente considerada o alimento saudável perfeito. É crocante, saboroso e altamente nutritivo. As cenouras são uma fonte particularmente boa de beta-caroteno, fibras, vitamina K, potássio e antioxidantes. As cenouras têm vários benefícios para a saúde. Eles são um alimento favorável à perda de peso e têm sido associados à redução dos níveis de colesterol e à melhoria da saúde ocular."
+  },
+  {
+    "id": 4,
+    "productName": "Milho",
+    "image": "🌽",
+    "from": "Alemanha 🇩🇪",
+    "nutrients": "Vitamina C, Magnesio",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Também conhecido como milho, o milho é um dos grãos de cereal mais populares do mundo. A pipoca e o milho doce são variedades comumente consumidas, mas os produtos de milho refinado também são amplamente consumidos, frequentemente como ingredientes em alimentos. Isso inclui tortilhas, chips de tortilha, polenta, fubá, farinha de milho, xarope de milho e óleo de milho. O milho integral é tão saudável quanto qualquer grão de cereal, rico em fibras e muitas vitaminas, minerais e antioxidantes."
+  }
+]
