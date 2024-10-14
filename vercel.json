@@ -2,7 +2,8 @@
   "version": 2,
   "builds": [{ "src": "index.js", "use": "@vercel/node" }],
   "routes": [
-    { "src": "/product", "dest": "/index.js" },
-    { "src": "/product\\?id=(.*)", "dest": "/index.js" }
+    { "src": "/product\\?id=(.*)", "dest": "/index.js" },
+    { "src": "/", "dest": "/index.js" },
+    { "src": "/overview", "dest": "/index.js" }
   ]
 }
